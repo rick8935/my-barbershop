@@ -19,44 +19,48 @@
   "fileMap": {
     "nonProjectFiles": [
       {
+        "file": ".editorconfig",
+        "hash": "5443105041930014821"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "557385588170937783"
+      },
+      {
         "file": ".husky/pre-commit",
         "hash": "16897372753072675009"
       },
       {
-        "file": ".vscode/extensions.json",
-        "hash": "13417776046909105611"
-      },
-      {
         "file": ".lintstagedrc",
-        "hash": "2181587951844623731"
+        "hash": "10030248861916135266"
       },
       {
         "file": ".prettierignore",
         "hash": "5407418692668764289"
       },
       {
-        "file": ".gitignore",
-        "hash": "17559216753634855455"
-      },
-      {
         "file": ".prettierrc",
         "hash": "8828517446325357665"
       },
       {
-        "file": "package-lock.json",
-        "hash": "1071165304875765925"
+        "file": ".vscode/extensions.json",
+        "hash": "13417776046909105611"
+      },
+      {
+        "file": ".vscode/setting.json",
+        "hash": "445233325007037602"
+      },
+      {
+        "file": "README.md",
+        "hash": "2263071913392225344"
+      },
+      {
+        "file": "eslint.config.mjs",
+        "hash": "4153119286318635879"
       },
       {
         "file": "nx.json",
         "hash": "15308003993709247516"
-      },
-      {
-        "file": ".editorconfig",
-        "hash": "5443105041930014821"
-      },
-      {
-        "file": "README.md",
-        "hash": "16889703009941571420"
       },
       {
         "file": "package.json",
@@ -65,29 +69,17 @@
       {
         "file": "tsconfig.base.json",
         "hash": "16936441711144470533"
-      },
-      {
-        "file": "eslint.config.mjs",
-        "hash": "4153119286318635879"
       }
     ],
     "projectFileMap": {
       "my-barbershop-e2e": [
         {
           "file": "apps/my-barbershop-e2e/eslint.config.mjs",
-          "hash": "1172734138943286526",
-          "deps": [
-            "npm:eslint-plugin-playwright"
-          ]
+          "hash": "1172734138943286526"
         },
         {
           "file": "apps/my-barbershop-e2e/playwright.config.ts",
-          "hash": "4362959889285216990",
-          "deps": [
-            "npm:@playwright/test",
-            "npm:@nx/playwright",
-            "npm:@nx/devkit"
-          ]
+          "hash": "4362959889285216990"
         },
         {
           "file": "apps/my-barbershop-e2e/project.json",
@@ -95,10 +87,7 @@
         },
         {
           "file": "apps/my-barbershop-e2e/src/example.spec.ts",
-          "hash": "16019101014373124625",
-          "deps": [
-            "npm:@playwright/test"
-          ]
+          "hash": "16019101014373124625"
         },
         {
           "file": "apps/my-barbershop-e2e/tsconfig.json",
@@ -108,14 +97,11 @@
       "my-barbershop": [
         {
           "file": "apps/my-barbershop/eslint.config.mjs",
-          "hash": "12335753886872259057",
-          "deps": [
-            "npm:@nx/eslint-plugin"
-          ]
+          "hash": "12335753886872259057"
         },
         {
           "file": "apps/my-barbershop/project.json",
-          "hash": "3291161306998737500"
+          "hash": "13856132695240597623"
         },
         {
           "file": "apps/my-barbershop/public/favicon.ico",
@@ -123,22 +109,15 @@
         },
         {
           "file": "apps/my-barbershop/src/app/app.config.ts",
-          "hash": "4515289115773032281",
-          "deps": [
-            "npm:@angular/core",
-            "npm:@angular/router"
-          ]
+          "hash": "17450373129693520132"
         },
         {
           "file": "apps/my-barbershop/src/app/app.html",
-          "hash": "9551958816990009124"
+          "hash": "18422030646983525148"
         },
         {
           "file": "apps/my-barbershop/src/app/app.routes.ts",
-          "hash": "6185150965714414910",
-          "deps": [
-            "npm:@angular/router"
-          ]
+          "hash": "6185150965714414910"
         },
         {
           "file": "apps/my-barbershop/src/app/app.scss",
@@ -146,19 +125,11 @@
         },
         {
           "file": "apps/my-barbershop/src/app/app.ts",
-          "hash": "12690944224876269957",
-          "deps": [
-            "npm:@angular/core",
-            "npm:@angular/router"
-          ]
+          "hash": "12690944224876269957"
         },
         {
           "file": "apps/my-barbershop/src/app/nx-welcome.ts",
-          "hash": "95001421429285736",
-          "deps": [
-            "npm:@angular/core",
-            "npm:@angular/common"
-          ]
+          "hash": "95001421429285736"
         },
         {
           "file": "apps/my-barbershop/src/index.html",
@@ -166,10 +137,7 @@
         },
         {
           "file": "apps/my-barbershop/src/main.ts",
-          "hash": "3314327030169821486",
-          "deps": [
-            "npm:@angular/platform-browser"
-          ]
+          "hash": "3314327030169821486"
         },
         {
           "file": "apps/my-barbershop/src/styles.scss",
@@ -186,5 +154,5 @@
       ]
     }
   },
-  "externalNodesHash": "4185565746005561858"
+  "externalNodesHash": "3244421341483603138"
 }
