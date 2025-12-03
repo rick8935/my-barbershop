@@ -1904,3 +1904,351 @@ DEBUG nx::native::ide::install: Nx Console extension is not installed
 [NX v22.1.3 Daemon Server] - 2025-12-03T04:54:06.767Z - [WATCHER]: Stopping the watcher for C:\Users\Aluno\Documents\rick-barbershop2\my-barbershop (outputs)
 [NX v22.1.3 Daemon Server] - 2025-12-03T04:54:06.772Z - [NX-CONSOLE]: Cleaning up latest Nx installation from C:\Users\Aluno\AppData\Local\Temp\tmp-2136-pF5VoWWKOqMy
 [NX v22.1.3 Daemon Server] - 2025-12-03T04:54:06.773Z - Server stopped because: "10800000ms of inactivity"
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:45.976Z - Started listening on: \\.\pipe\nx\C:\Users\Aluno\AppData\Local\Temp\2021674b2b0ea1b1b277\d.sock
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:45.984Z - [WATCHER]: Subscribed to changes within: c:\Users\Aluno\Documents\rick-barbershop2\my-barbershop (native)
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:45.985Z - [NX-CONSOLE]: Pulling latest Nx (latest) to check console status...
+Fetching nx...
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:46.589Z - Established a connection. Number of open connections: 1
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:46.590Z - Established a connection. Number of open connections: 2
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:46.591Z - Closed a connection. Number of open connections: 1
+Time for 'plugin worker 25324 code loading' 14.621700000000004
+Time for 'plugin worker 26196 code loading' 14.365100000000002
+Time for 'plugin worker 26104 code loading' 13.756800000000002
+Time for 'plugin worker 7376 code loading' 12.982300000000002
+Time for 'plugin worker 25624 code loading' 12.8555
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:47.567Z - Time taken for 'Load Nx Plugin: c:\Users\Aluno\Documents\rick-barbershop2\my-barbershop\node_modules\nx\src\plugins\project-json\build-nodes\project-json' 1038.1646ms
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:47.577Z - Time taken for 'Load Nx Plugin: c:\Users\Aluno\Documents\rick-barbershop2\my-barbershop\node_modules\nx\src\plugins\package-json' 1051.2684ms
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:47.752Z - Time taken for 'loadDefaultNxPlugins' 1233.1876ms
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:48.769Z - Time taken for 'Load Nx Plugin: @nx/playwright/plugin' 2238.4002ms
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:48.779Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:48.779Z - [REQUEST]: 
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:48.779Z - [REQUEST]: 
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:48.785Z - Time taken for 'loadSpecifiedNxPlugins' 2248.3280999999997ms
+Time for 'nx/js/dependencies-and-lockfile:createNodes' 0.12730000000010477
+Time for 'nx/core/project-json:createNodes' 1.2260000000001128
+Time for 'nx/core/package-json:createNodes' 1.3826999999996588
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:48.789Z - Established a connection. Number of open connections: 2
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:48.789Z - Established a connection. Number of open connections: 3
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:48.789Z - Closed a connection. Number of open connections: 2
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:48.790Z - Closed a connection. Number of open connections: 1
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:48.790Z - Established a connection. Number of open connections: 2
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:48.790Z - Established a connection. Number of open connections: 3
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:49.254Z - Received raw message of length 32
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:49.255Z - Received json message of type GET_NX_CONSOLE_STATUS
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:49.255Z - Serializing response for GET_NX_CONSOLE_STATUS message in json mode
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:49.255Z - Responding to GET_NX_CONSOLE_STATUS message
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:49.255Z - [REQUEST]: Responding to the client. handleGetNxConsoleStatus
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:49.255Z - Done responding to the client handleGetNxConsoleStatus
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:49.255Z - Handled json message GET_NX_CONSOLE_STATUS. Handling time: 0. Response time: 0.
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:49.315Z - Established a connection. Number of open connections: 4
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:49.316Z - Closed a connection. Number of open connections: 3
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:49.319Z - Closed a connection. Number of open connections: 2
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:49.351Z - Established a connection. Number of open connections: 3
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:49.351Z - Closed a connection. Number of open connections: 2
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:49.351Z - Established a connection. Number of open connections: 3
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:50.366Z - Closed a connection. Number of open connections: 2
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:50.366Z - Closed a connection. Number of open connections: 1
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:50.366Z - Closed a connection. Number of open connections: 0
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:50.366Z - [WATCHER]: Stopping the watcher for c:\Users\Aluno\Documents\rick-barbershop2\my-barbershop (sources)
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:50.366Z - [WATCHER]: Stopping the watcher for c:\Users\Aluno\Documents\rick-barbershop2\my-barbershop (outputs)
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:50.367Z - Started listening on: \\.\pipe\nx\C:\Users\Aluno\AppData\Local\Temp\975237af9ebfe494dcaf\d.sock
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:50.368Z - Server stopped because: "this process is no longer the current daemon (native)"
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:50.374Z - [WATCHER]: Subscribed to changes within: c:\Users\Aluno\Documents\rick-barbershop2\my-barbershop (native)
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:50.376Z - [NX-CONSOLE]: Pulling latest Nx (latest) to check console status...
+Fetching nx...
+Time for 'plugin worker 7328 code loading' 17.164099999999998
+Time for 'plugin worker 15468 code loading' 15.930799999999998
+Time for 'plugin worker 9064 code loading' 14.905500000000004
+Time for 'plugin worker 12180 code loading' 16.662300000000002
+Time for 'plugin worker 18180 code loading' 16.745099999999997
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:53.122Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:53.122Z - [REQUEST]: 
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:14:53.122Z - [REQUEST]: 
+Time for 'nx/js/dependencies-and-lockfile:createNodes' 0.12540000000035434
+Time for 'nx/core/project-json:createNodes' 1.175000000000182
+Time for 'nx/core/package-json:createNodes' 1.379699999999957
+Time for 'workspace context init' 2.7800999999999476
+Time for '@nx/playwright/plugin:createNodes' 4180.2175
+Time for 'workspace context init' 2.9805999999998676
+Time for '@nx/eslint/plugin:createNodes' 7511.9798
+Time for 'build typescript dependencies' 284.7597000000005
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:15:01.018Z - [SYNC]: collect registered sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:15:03.189Z - [NX-CONSOLE]: Successfully pulled latest Nx to C:\Users\Aluno\AppData\Local\Temp\tmp-18580-2zPQW63ywlvQ
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:15:04.776Z - [NX-CONSOLE]: Using local implementation (NX_USE_LOCAL=true or inner call)
+DEBUG nx::native::ide::preferences: Loaded console preferences: NxConsolePreferences { auto_install_console: Some(false), path: "C:\\Users\\Aluno\\.nx\\ide.json" }
+DEBUG nx::native::ide::install: Detected editor: Unknown
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:15:04.781Z - [NX-CONSOLE]: Console status check completed, shouldPrompt: false
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:16:34.699Z - [WATCHER]: Processing file changes in outputs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:16:34.708Z - [WATCHER]: 0 file(s) created or restored, 4 file(s) modified, 0 file(s) deleted
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:16:34.918Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:16:34.918Z - [REQUEST]: apps/my-barbershop/src/app/domain/auth/pages/login/login.page.scss,apps/my-barbershop/src/app/domain/auth/pages/login/login.page.spec.ts,apps/my-barbershop/src/app/domain/auth/pages/login/login.page.ts,apps/my-barbershop/src/app/domain/auth/pages/login/login.page.html
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:16:34.918Z - [REQUEST]: 
+Time for 'nx/js/dependencies-and-lockfile:createNodes' 0.1934999999939464
+Time for 'nx/core/package-json:createNodes' 1.290099999998347
+Time for 'nx/core/project-json:createNodes' 1.3565999999991618
+Time for '@nx/playwright/plugin:createNodes' 9.540300000007846
+Time for '@nx/eslint/plugin:createNodes' 13.80340000000433
+Time for 'build typescript dependencies' 30.494900000005146
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:16:34.976Z - [SYNC]: collect registered sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:16:34.979Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:16:34.980Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:17:40.237Z - [WATCHER]: apps/my-barbershop/eslint.config.mjs was modified
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:17:40.238Z - [WATCHER]: Processing file changes in outputs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:17:40.648Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:17:40.648Z - [REQUEST]: apps/my-barbershop/eslint.config.mjs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:17:40.648Z - [REQUEST]: 
+Time for 'nx/js/dependencies-and-lockfile:createNodes' 0.06010000000242144
+Time for 'nx/core/package-json:createNodes' 1.924700000003213
+Time for 'nx/core/project-json:createNodes' 1.736799999984214
+Time for '@nx/playwright/plugin:createNodes' 10.361700000008568
+Time for '@nx/eslint/plugin:createNodes' 12.489399999991292
+Time for 'build typescript dependencies' 21.16500000000815
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:17:40.695Z - [SYNC]: collect registered sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:17:40.697Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:17:40.698Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:17:45.395Z - [WATCHER]: apps/my-barbershop/eslint.config.mjs was modified
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:17:45.395Z - [WATCHER]: Processing file changes in outputs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:17:46.203Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:17:46.203Z - [REQUEST]: apps/my-barbershop/eslint.config.mjs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:17:46.203Z - [REQUEST]: 
+Time for 'nx/js/dependencies-and-lockfile:createNodes' 0.08190000001923181
+Time for 'nx/core/package-json:createNodes' 1.130700000008801
+Time for 'nx/core/project-json:createNodes' 1.1481000000203494
+Time for '@nx/playwright/plugin:createNodes' 9.036300000007031
+Time for '@nx/eslint/plugin:createNodes' 11.226499999989755
+Time for 'build typescript dependencies' 17.52929999999469
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:17:46.245Z - [SYNC]: collect registered sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:17:46.247Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:17:46.248Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:17:47.069Z - [WATCHER]: apps/my-barbershop/eslint.config.mjs was modified
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:17:47.069Z - [WATCHER]: Processing file changes in outputs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:17:48.671Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:17:48.671Z - [REQUEST]: apps/my-barbershop/eslint.config.mjs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:17:48.671Z - [REQUEST]: 
+Time for 'nx/js/dependencies-and-lockfile:createNodes' 0.055499999987659976
+Time for 'nx/core/project-json:createNodes' 1.1063999999896623
+Time for 'nx/core/package-json:createNodes' 1.0706000000063796
+Time for '@nx/playwright/plugin:createNodes' 8.35130000000936
+Time for '@nx/eslint/plugin:createNodes' 11.02369999999064
+Time for 'build typescript dependencies' 12.81150000001071
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:17:48.705Z - [SYNC]: collect registered sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:17:48.706Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:17:48.707Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:17:49.918Z - [WATCHER]: Processing file changes in outputs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:17:49.922Z - [WATCHER]: apps/my-barbershop/eslint.config.mjs was modified
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:17:52.649Z - [WATCHER]: Processing file changes in outputs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:17:52.653Z - [WATCHER]: apps/my-barbershop/eslint.config.mjs was modified
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:17:53.125Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:17:53.125Z - [REQUEST]: apps/my-barbershop/eslint.config.mjs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:17:53.125Z - [REQUEST]: 
+Time for 'nx/js/dependencies-and-lockfile:createNodes' 0.059999999997671694
+Time for 'nx/core/package-json:createNodes' 1.267200000002049
+Time for 'nx/core/project-json:createNodes' 1.2989000000234228
+Time for '@nx/playwright/plugin:createNodes' 9.385299999994459
+Time for '@nx/eslint/plugin:createNodes' 12.127100000012433
+Time for 'build typescript dependencies' 15.520199999999022
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:17:53.167Z - [SYNC]: collect registered sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:17:53.169Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:17:53.170Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:01.637Z - [WATCHER]: apps/my-barbershop/eslint.config.mjs was modified
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:01.638Z - [WATCHER]: Processing file changes in outputs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:07.069Z - [WATCHER]: apps/my-barbershop/eslint.config.mjs was modified
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:07.069Z - [WATCHER]: Processing file changes in outputs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:08.051Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:08.051Z - [REQUEST]: apps/my-barbershop/eslint.config.mjs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:08.051Z - [REQUEST]: 
+Time for 'nx/js/dependencies-and-lockfile:createNodes' 0.05819999999948777
+Time for 'nx/core/package-json:createNodes' 0.8748999999952503
+Time for 'nx/core/project-json:createNodes' 0.8788000000058673
+Time for '@nx/playwright/plugin:createNodes' 8.396999999997206
+Time for '@nx/eslint/plugin:createNodes' 10.31940000000759
+Time for 'build typescript dependencies' 9.636599999997998
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:08.080Z - [SYNC]: collect registered sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:08.083Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:08.084Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:11.570Z - [WATCHER]: Processing file changes in outputs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:11.572Z - [WATCHER]: apps/my-barbershop/eslint.config.mjs was modified
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:13.150Z - [WATCHER]: Processing file changes in outputs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:13.155Z - [WATCHER]: apps/my-barbershop/eslint.config.mjs was modified
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:14.705Z - [WATCHER]: apps/my-barbershop/eslint.config.mjs was modified
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:14.705Z - [WATCHER]: Processing file changes in outputs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:15.778Z - [WATCHER]: apps/my-barbershop/eslint.config.mjs was modified
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:15.779Z - [WATCHER]: Processing file changes in outputs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:17.980Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:17.980Z - [REQUEST]: apps/my-barbershop/eslint.config.mjs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:17.980Z - [REQUEST]: 
+Time for 'nx/js/dependencies-and-lockfile:createNodes' 0.06459999998332933
+Time for 'nx/core/project-json:createNodes' 1.4177999999956228
+Time for 'nx/core/package-json:createNodes' 1.7651000000187196
+Time for '@nx/playwright/plugin:createNodes' 12.04739999998128
+Time for '@nx/eslint/plugin:createNodes' 16.28090000001248
+Time for 'build typescript dependencies' 21.356999999989057
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:18.032Z - [SYNC]: collect registered sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:18.035Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:18.036Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:22.555Z - [WATCHER]: apps/my-barbershop/eslint.config.mjs was modified
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:22.555Z - [WATCHER]: Processing file changes in outputs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:28.972Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:28.972Z - [REQUEST]: apps/my-barbershop/eslint.config.mjs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:28.972Z - [REQUEST]: 
+Time for 'nx/js/dependencies-and-lockfile:createNodes' 0.0677000000141561
+Time for 'nx/core/package-json:createNodes' 1.2135999999882188
+Time for 'nx/core/project-json:createNodes' 1.1175999999977648
+Time for '@nx/playwright/plugin:createNodes' 9.087000000028638
+Time for '@nx/eslint/plugin:createNodes' 11.142399999982445
+Time for 'build typescript dependencies' 9.394499999994878
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:29.002Z - [SYNC]: collect registered sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:29.004Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:29.005Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:29.889Z - [WATCHER]: apps/my-barbershop/eslint.config.mjs was modified
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:29.889Z - [WATCHER]: Processing file changes in outputs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:36.301Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:36.301Z - [REQUEST]: apps/my-barbershop/eslint.config.mjs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:36.301Z - [REQUEST]: 
+Time for 'nx/js/dependencies-and-lockfile:createNodes' 0.06130000000121072
+Time for 'nx/core/project-json:createNodes' 0.9856999999901745
+Time for 'nx/core/package-json:createNodes' 1.1635999999998603
+Time for '@nx/playwright/plugin:createNodes' 10.339899999991758
+Time for '@nx/eslint/plugin:createNodes' 16.423800000018673
+Time for 'build typescript dependencies' 27.189299999998184
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:36.367Z - [SYNC]: collect registered sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:36.373Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:36.375Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:40.395Z - [WATCHER]: apps/my-barbershop/eslint.config.mjs was modified
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:40.396Z - [WATCHER]: Processing file changes in outputs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:43.622Z - [WATCHER]: Processing file changes in outputs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:43.627Z - [WATCHER]: apps/my-barbershop/eslint.config.mjs was modified
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:46.810Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:46.810Z - [REQUEST]: apps/my-barbershop/eslint.config.mjs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:46.810Z - [REQUEST]: 
+Time for 'nx/js/dependencies-and-lockfile:createNodes' 0.0677000000141561
+Time for 'nx/core/package-json:createNodes' 1.133399999991525
+Time for 'nx/core/project-json:createNodes' 1.1710000000020955
+Time for '@nx/playwright/plugin:createNodes' 10.167699999990873
+Time for '@nx/eslint/plugin:createNodes' 12.815499999996973
+Time for 'build typescript dependencies' 15.243699999991804
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:46.852Z - [SYNC]: collect registered sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:46.856Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:46.857Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:48.024Z - [WATCHER]: Processing file changes in outputs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:48.031Z - [WATCHER]: apps/my-barbershop/eslint.config.mjs was modified
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:52.650Z - [WATCHER]: Processing file changes in outputs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:52.659Z - [WATCHER]: apps/my-barbershop/eslint.config.mjs was modified
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:54.438Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:54.439Z - [REQUEST]: apps/my-barbershop/eslint.config.mjs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:54.439Z - [REQUEST]: 
+Time for 'nx/js/dependencies-and-lockfile:createNodes' 0.0470000000204891
+Time for 'nx/core/package-json:createNodes' 0.9651999999769032
+Time for 'nx/core/project-json:createNodes' 1.1803000000072643
+Time for '@nx/playwright/plugin:createNodes' 9.2271999999939
+Time for '@nx/eslint/plugin:createNodes' 10.681600000010803
+Time for 'build typescript dependencies' 9.401700000016717
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:54.470Z - [SYNC]: collect registered sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:54.472Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:18:54.473Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:19:46.149Z - [WATCHER]: 0 file(s) created or restored, 4 file(s) modified, 0 file(s) deleted
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:19:46.149Z - [WATCHER]: Processing file changes in outputs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:19:52.562Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:19:52.562Z - [REQUEST]: apps/my-barbershop/src/app/domain/auth/pages/sign-up/sign-up.page.scss,apps/my-barbershop/src/app/domain/auth/pages/sign-up/sign-up.page.html,apps/my-barbershop/src/app/domain/auth/pages/sign-up/sign-up.page.spec.ts,apps/my-barbershop/src/app/domain/auth/pages/sign-up/sign-up.page.ts
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:19:52.562Z - [REQUEST]: 
+Time for 'nx/js/dependencies-and-lockfile:createNodes' 0.05180000001564622
+Time for 'nx/core/project-json:createNodes' 1.0610000000451691
+Time for 'nx/core/package-json:createNodes' 1.2880000000004657
+Time for '@nx/playwright/plugin:createNodes' 10.766900000046007
+Time for '@nx/eslint/plugin:createNodes' 13.587899999984074
+Time for 'build typescript dependencies' 26.071200000005774
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:19:52.614Z - [SYNC]: collect registered sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:19:52.617Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:19:52.618Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:21:05.120Z - [WATCHER]: 0 file(s) created or restored, 4 file(s) modified, 0 file(s) deleted
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:21:05.120Z - [WATCHER]: Processing file changes in outputs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:21:11.535Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:21:11.535Z - [REQUEST]: apps/my-barbershop/src/app/core/layout/auth/auth.page.spec.ts,apps/my-barbershop/src/app/core/layout/auth/auth.page.ts,apps/my-barbershop/src/app/core/layout/auth/auth.page.scss,apps/my-barbershop/src/app/core/layout/auth/auth.page.html
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:21:11.535Z - [REQUEST]: 
+Time for 'nx/js/dependencies-and-lockfile:createNodes' 0.06979999999748543
+Time for 'nx/core/project-json:createNodes' 1.2296999999671243
+Time for 'nx/core/package-json:createNodes' 1.5817999999853782
+Time for '@nx/playwright/plugin:createNodes' 11.621199999994133
+Time for '@nx/eslint/plugin:createNodes' 14.270399999979418
+Time for 'build typescript dependencies' 41.09189999999944
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:21:11.608Z - [SYNC]: collect registered sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:21:11.613Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:21:11.613Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:21:41.155Z - [WATCHER]: apps/my-barbershop/src/app/core/layout/auth/auth.page.html was deleted
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:21:41.155Z - [WATCHER]: Processing file changes in outputs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:21:43.317Z - [WATCHER]: apps/my-barbershop/src/app/core/layout/auth/auth.page.scss was deleted
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:21:43.317Z - [WATCHER]: Processing file changes in outputs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:21:44.380Z - [WATCHER]: Processing file changes in outputs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:21:44.383Z - [WATCHER]: apps/my-barbershop/src/app/core/layout/auth/auth.page.spec.ts was deleted
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:21:45.365Z - [WATCHER]: Processing file changes in outputs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:21:45.368Z - [WATCHER]: apps/my-barbershop/src/app/core/layout/auth/auth.page.ts was deleted
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:21:47.566Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:21:47.566Z - [REQUEST]: 
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:21:47.566Z - [REQUEST]: apps/my-barbershop/src/app/core/layout/auth/auth.page.html,apps/my-barbershop/src/app/core/layout/auth/auth.page.scss,apps/my-barbershop/src/app/core/layout/auth/auth.page.spec.ts,apps/my-barbershop/src/app/core/layout/auth/auth.page.ts
+Time for 'nx/js/dependencies-and-lockfile:createNodes' 0.05969999998342246
+Time for 'nx/core/project-json:createNodes' 1.4402999999583699
+Time for 'nx/core/package-json:createNodes' 1.618700000050012
+Time for '@nx/playwright/plugin:createNodes' 9.532700000039767
+Time for '@nx/eslint/plugin:createNodes' 11.60800000000745
+Time for 'build typescript dependencies' 0.011600000027101487
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:21:47.588Z - [SYNC]: collect registered sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:21:47.590Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:21:47.590Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:22:34.790Z - [WATCHER]: Processing file changes in outputs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:22:34.798Z - [WATCHER]: 0 file(s) created or restored, 4 file(s) modified, 0 file(s) deleted
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:22:41.208Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:22:41.208Z - [REQUEST]: apps/my-barbershop/src/app/core/layout/auth/auth/auth.layout.spec.ts,apps/my-barbershop/src/app/core/layout/auth/auth/auth.layout.html,apps/my-barbershop/src/app/core/layout/auth/auth/auth.layout.scss,apps/my-barbershop/src/app/core/layout/auth/auth/auth.layout.ts
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:22:41.208Z - [REQUEST]: 
+Time for 'nx/js/dependencies-and-lockfile:createNodes' 0.07779999997001141
+Time for 'nx/core/package-json:createNodes' 1.2322999999742024
+Time for 'nx/core/project-json:createNodes' 1.3669000000227243
+Time for '@nx/playwright/plugin:createNodes' 11.086599999980535
+Time for '@nx/eslint/plugin:createNodes' 14.692899999965448
+Time for 'build typescript dependencies' 28.04719999997178
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:22:41.269Z - [SYNC]: collect registered sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:22:41.272Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:22:41.272Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:23:10.395Z - [WATCHER]: apps/my-barbershop/eslint.config.mjs was modified
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:23:10.396Z - [WATCHER]: Processing file changes in outputs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:23:12.702Z - [WATCHER]: apps/my-barbershop/eslint.config.mjs was modified
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:23:12.703Z - [WATCHER]: Processing file changes in outputs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:23:16.805Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:23:16.806Z - [REQUEST]: apps/my-barbershop/eslint.config.mjs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:23:16.806Z - [REQUEST]: 
+Time for 'nx/js/dependencies-and-lockfile:createNodes' 0.06459999998332933
+Time for 'nx/core/package-json:createNodes' 1.2629000000306405
+Time for 'nx/core/project-json:createNodes' 1.2069000000483356
+Time for '@nx/playwright/plugin:createNodes' 10.263999999966472
+Time for '@nx/eslint/plugin:createNodes' 10.456200000015087
+Time for 'build typescript dependencies' 9.119799999985844
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:23:16.835Z - [SYNC]: collect registered sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:23:16.837Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:23:16.838Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:25:52.464Z - [WATCHER]: Processing file changes in outputs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:25:52.472Z - [WATCHER]: 0 file(s) created or restored, 4 file(s) modified, 0 file(s) deleted
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:25:58.888Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:25:58.888Z - [REQUEST]: apps/my-barbershop/src/app/domain/auth/services/loading/loading.spec.ts,apps/my-barbershop/src/app/domain/auth/services/loading/loading.css,apps/my-barbershop/src/app/domain/auth/services/loading/loading.ts,apps/my-barbershop/src/app/domain/auth/services/loading/loading.html
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:25:58.888Z - [REQUEST]: 
+Time for 'nx/js/dependencies-and-lockfile:createNodes' 0.16689999995287508
+Time for 'nx/core/package-json:createNodes' 1.461200000019744
+Time for 'nx/core/project-json:createNodes' 1.375099999946542
+Time for '@nx/playwright/plugin:createNodes' 12.30960000003688
+Time for '@nx/eslint/plugin:createNodes' 12.582500000018626
+Time for 'build typescript dependencies' 22.59320000000298
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:25:58.934Z - [SYNC]: collect registered sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:25:58.937Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:25:58.938Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:29:30.109Z - [WATCHER]: Processing file changes in outputs
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:29:30.112Z - [WATCHER]: apps/my-barbershop/src/app/domain/auth/services/loading was deleted
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:29:36.512Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:29:36.513Z - [REQUEST]: 
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:29:36.513Z - [REQUEST]: apps/my-barbershop/src/app/domain/auth/services/loading
+Time for 'nx/js/dependencies-and-lockfile:createNodes' 0.09909999999217689
+Time for 'nx/core/project-json:createNodes' 0.8408999999519438
+Time for 'nx/core/package-json:createNodes' 1.1108000000240281
+Time for '@nx/playwright/plugin:createNodes' 8.471600000048056
+Time for '@nx/eslint/plugin:createNodes' 9.631400000071153
+Time for 'build typescript dependencies' 0.013999999966472387
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:29:36.530Z - [SYNC]: collect registered sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:29:36.531Z - [SYNC]: project graph hash is the same, not collecting task sync generators
+[NX v22.1.3 Daemon Server] - 2025-12-03T23:29:36.532Z - [SYNC]: nx.json hash is the same, not collecting global sync generators
